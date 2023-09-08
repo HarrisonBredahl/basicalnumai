@@ -1,0 +1,2 @@
+# basicalnumai
+Numerical AI Basic
